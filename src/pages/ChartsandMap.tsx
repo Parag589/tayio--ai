@@ -91,7 +91,7 @@ export default function ChartsandMap() {
 
   return (
     <div className="chartsandmappage">
-      <h1>faisal4c@gmail.com || 7838786969</h1>
+      <h1>paragagarwal0589@gmail.com || +91 6395712243</h1>
       <h1>Covid Cases:</h1>
       <div className="lineChart">
         <Line data={graphData} options={graphOptions}></Line>
